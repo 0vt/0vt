@@ -1,4 +1,4 @@
-### 0 Value Token
+# 0 Value Token
 
 ## What's 0 Value Token?
 - Experimental project
